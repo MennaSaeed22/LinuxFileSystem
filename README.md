@@ -67,7 +67,3 @@ This project was made possible through the contributions of the following indivi
 - **Aya Ahmed**
 - **Retaj Ayman**
 - **Ahmed Salah**
-
-## nbviewer link
-
-https://nbviewer.org/github/Menna2002/LinuxFileSystem/blob/master/LinuxFileSystem.ipynb
